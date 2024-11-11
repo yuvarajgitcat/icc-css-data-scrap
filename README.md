@@ -18,8 +18,8 @@ This project focuses on scraping data related to piracy incidents from the live 
 - **Regular Expressions** (for extracting specific data)
 
 
-## **Useful Resources**
-- [Visit IMB Piracy Reporting Center](https://www.icc-ccs.org/index.php/piracy-reporting-centre/live-piracy-report)
+## Useful Resources
+- [Visit IMB Piracy Reporting Center](https://www.icc-ccs.org/index.php/piracy-reporting-centre/live-piracy-map/piracy-map-2024)
   
 ## Setup Instructions:
 
@@ -56,7 +56,7 @@ The data will be saved as `incident_data_with_extracted_details.xlsx` containing
 
 Here is a screenshot of the piracy map website:
 
-![Website Screenshot](Live Piracy Map.jpg)
+![Website Screenshot](https://github.com/yuvarajgitcat/icc-css-data-scrap/blob/main/Live%20Piracy%20Map.jpg)
 
 ## Contribution
 
